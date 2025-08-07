@@ -1,5 +1,7 @@
 🎁 GiftNote - Birthday & Gift Reminder App
-Welcome to the GiftNote repository! GiftNote is a thoughtfully designed Android application that helps users keep track of birthdays and gift ideas. Never miss a special day again — plan thoughtful gifts, schedule reminders, and manage important dates all in one place.
+Welcome to the GiftNote repository! GiftNote is a thoughtfully designed Android application that
+helps users keep track of birthdays and gift ideas. Never miss a special day again — plan thoughtful
+gifts, schedule reminders, and manage important dates all in one place.
 
 📱 App Overview
 GiftNote is a user-friendly app that allows people to:
@@ -12,7 +14,8 @@ Receive timely notifications and reminders before birthdays.
 
 Stay organized for celebrations with a clean, modern UI.
 
-Built with Kotlin, Jetpack Compose, and following MVVM architecture, the app ensures maintainability and performance on modern Android devices.
+Built with Kotlin, Jetpack Compose, and following MVVM architecture, the app ensures maintainability
+and performance on modern Android devices.
 
 🚀 Features
 🎂 Birthday Manager: Add, view, edit, and delete birthdays with ease.
@@ -41,15 +44,35 @@ View: Jetpack Compose UI built with state observation.
 Navigation: Voyager simplifies screen transitions and argument passing.
 
 ⚙️ Technologies Used
-Tool / Library	Purpose
-Kotlin	Programming language
-Jetpack Compose	Declarative UI framework
-Room	Local database for storing data
-Hilt	Dependency Injection
-DataStore	Persist app settings like theme or toggles
-AlarmManager	Schedule precise birthday notifications
-Voyager	Navigation between screens
-StateFlow + MVVM	State management and reactive UIs
+Tool / Library Purpose
+Kotlin Programming language
+Jetpack Compose Declarative UI framework
+Room Local database for storing data
+Hilt Dependency Injection
+DataStore Persist app settings like theme or toggles
+AlarmManager Schedule precise birthday notifications
+Voyager Navigation between screens
+StateFlow + MVVM State management and reactive UIs
+
 
 📸 Screenshots
-<table> <tr> <td><img src="images/1.jpg" alt="Screenshot 1" width="200"/></td> <td><img src="images/2.jpg" alt="Screenshot 2" width="200"/></td> <td><img src="images/3.jpg" alt="Screenshot 3" width="200"/></td> <td><img src="images/4.jpg" alt="Screenshot 4" width="200"/></td> </tr> <tr> <td><img src="images/5.jpg" alt="Screenshot 5" width="200"/></td> <td><img src="images/6.jpg" alt="Screenshot 6" width="200"/></td> <td><img src="images/7.jpg" alt="Screenshot 7" width="200"/></td> <td><img src="images/8.jpg" alt="Screenshot 8" width="200"/></td> </tr> <tr> <td><img src="images/9.jpg" alt="Screenshot 9" width="200"/></td> <td><img src="images/10.jpg" alt="Screenshot 10" width="200"/></td> <td></td> <td></td> </tr> </table>
+
+
+<table>
+<tr> 
+<td><img src="images/4.jpg" alt="Screenshot 1" width="200"/></td> 
+<td><img src="images/10.jpg" alt="Screenshot 2" width="200"/></td> 
+</tr> 
+<tr> 
+<td> <img src="images/4.jpg" alt="Screenshot 1" width="200"/></td>
+<td><img src="images/3.jpg" alt="Screenshot 2" width="200"/></td> 
+<td><img src="images/2.jpg" alt="Screenshot 3" width="200"/></td> 
+<td><img src="images/1.jpg" alt="Screenshot 4" width="200"/></td>
+</tr>
+<tr> 
+<td><img src="images/5.jpg" alt="Screenshot 5" width="200"/></td> 
+<td><img src="images/6.jpg" alt="Screenshot 6" width="200"/></td> 
+<td><img src="images/7.jpg" alt="Screenshot 7" width="200"/></td> 
+<td><img src="images/8.jpg" alt="Screenshot 8" width="200"/></td> 
+</tr> 
+</table>
