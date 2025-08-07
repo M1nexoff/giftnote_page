@@ -60,19 +60,19 @@ StateFlow + MVVM State management and reactive UIs
 
 <table>
 <tr> 
-<td><img src="images/4.jpg" alt="Screenshot 1" width="400"/></td> 
-<td><img src="images/10.jpg" alt="Screenshot 2" width="400"/></td> 
+<td><img src="images/4.jpg" alt="Screenshot 1" width="800"/></td> 
+<td><img src="images/10.jpg" alt="Screenshot 2" width="800"/></td> 
 </tr> 
 <tr> 
-<td> <img src="images/3.jpg" alt="Screenshot 1" width="180"/></td>
-<td><img src="images/2.jpg" alt="Screenshot 2" width="180"/></td> 
-<td><img src="images/1.jpg" alt="Screenshot 3" width="180"/></td> 
-<td><img src="images/5.jpg" alt="Screenshot 4" width="180"/></td>
+<td> <img src="images/3.jpg" alt="Screenshot 1" width="300"/></td>
+<td><img src="images/2.jpg" alt="Screenshot 2" width="300"/></td> 
+<td><img src="images/1.jpg" alt="Screenshot 3" width="300"/></td> 
+<td><img src="images/5.jpg" alt="Screenshot 4" width="300"/></td>
 </tr>
 <tr> 
-<td><img src="images/7.jpg" alt="Screenshot 5" width="180"/></td> 
-<td><img src="images/8.jpg" alt="Screenshot 6" width="180"/></td> 
-<td><img src="images/6.jpg" alt="Screenshot 7" width="180"/></td> 
-<td><img src="images/9.jpg" alt="Screenshot 8" width="180"/></td> 
+<td><img src="images/7.jpg" alt="Screenshot 5" width="300"/></td> 
+<td><img src="images/8.jpg" alt="Screenshot 6" width="300"/></td> 
+<td><img src="images/6.jpg" alt="Screenshot 7" width="300"/></td> 
+<td><img src="images/9.jpg" alt="Screenshot 8" width="300"/></td> 
 </tr> 
 </table>
