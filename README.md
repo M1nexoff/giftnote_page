@@ -72,7 +72,7 @@ StateFlow + MVVM State management and reactive UIs
 <tr> 
 <td><img src="images/7.jpg" alt="Screenshot 5" width="200"/></td> 
 <td><img src="images/8.jpg" alt="Screenshot 6" width="200"/></td> 
-<td><img src="images/6.jpg" alt="Screenshot 7" width="200"/></td> 
-<td><img src="images/9.jpg" alt="Screenshot 8" width="200"/></td> 
+<td><img src="images/9.jpg" alt="Screenshot 7" width="200"/></td> 
+<td><img src="images/6.jpg" alt="Screenshot 8" width="200"/></td> 
 </tr> 
 </table>
